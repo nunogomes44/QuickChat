@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuickChat</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <color name="primary">#A27F7F</color>
+
+    <color name="primaryDark">#D11F1F</color>
+    <color name="accent">#FA9C11</color>
+    <string name="title_activity_about1">About1Activity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+
+</resources>
